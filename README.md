@@ -1,4 +1,4 @@
-##Just Cats!!
+## Just Cats!!
 
 O just cats! é um projetinho simples para treinar os conceitos de javascript assíncrono.
 Neste projeto fazemos o consumo da API **THECATAPI**, que disponibiliza muitas imagens de gatos para seus projetos.  
